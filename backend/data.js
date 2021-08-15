@@ -154,10 +154,8 @@ const data = {
     rating:5,
     numReviews:20,
     description: 'SAMSUNG 50-inch Class Crystal UHD TU-8000 Series - 4K UHD HDR Smart TV with Alexa Built-in (UN50TU8000FXZA, 2020 Model)',
-
 },
-  
-  {
+{
     name: 'LG TV',
     category: 'Television',
     image:'/images/LG.jpg',
